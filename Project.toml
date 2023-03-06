@@ -1,0 +1,13 @@
+name = "ObaObjects"
+uuid = "6e9687c1-985d-446e-98b0-eb788b4f1a8e"
+authors = ["josePereiro <jose.pereiro.personal@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
